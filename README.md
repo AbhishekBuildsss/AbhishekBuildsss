@@ -117,8 +117,3 @@ Email Me 👉 ✉️ **abhishekm2257527@gmail.com** for Collaboration, Projects,
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/4ZVFmbi41t/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekm2257527@gmail.com)
-
----
-
-### ✍️ Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
