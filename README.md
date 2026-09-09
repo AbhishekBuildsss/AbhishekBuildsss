@@ -16,11 +16,14 @@ Email Me 👉 ✉️ **abhishekm2257527@gmail.com** for Collaboration, Projects,
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements & Trophies
+
 <div align="center">
-  <a href="https://github.com/AbhishekBuildsss">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbhishekBuildsss&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Abhishek's GitHub Trophies" />
-  </a>
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw" title="Quickdraw" />
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff42e13.png" width="90" alt="YOLO" title="YOLO" />
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-7662c003de59.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abadcb3.png" width="90" alt="Starstruck" title="Starstruck" />
 </div>
 
 ---
