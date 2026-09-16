@@ -11,9 +11,7 @@ Email Me 👉 ✉️ **abhishekm2257527@gmail.com** for Collaboration, Projects,
 - 💼 **Experience:** GenAI Powered Data Analytics Job Simulation — Tata Group (Forage)
 - 👯 **Looking to Collaborate on:** Full-Stack (Next.js / Node.js) & AI-powered applications
 - 💬 **Ask Me About:** C++, Java, React, Next.js, System Design, DSA & Web Dev
-- 🏆 **Achievements:** Winner, College-Level Smart India Hackathon (SIH) | 150+ LeetCode problems solved
-- ⚡ **Fun Fact:** I love turning complex real-world problems into clean, scalable code!
-
+- 
 ---
 
 ## 🏆 GitHub Achievements & Trophies
