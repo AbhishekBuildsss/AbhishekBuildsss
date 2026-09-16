@@ -59,19 +59,7 @@ Email Me 👉 ✉️ **abhishekm2257527@gmail.com** for Collaboration, Projects,
 
 ---
 
-## 🚀 Key Projects
-
-- 🔒 **[Integrity | AI-Powered Document Verification System]**
-  - Built a full-stack document verification system using **SHA-256 cryptographic hashing** to detect unauthorized modifications and ensure document authenticity.
-  - Developed secure REST APIs for document upload, hash generation, and verification history with immutable hash storage.
-  - *Tech:* React.js, Node.js, Express.js, MySQL.
-
-- 🛡️ **[SafeTrace Grid | AI Tourist Safety Network]**
-  - Engineered a privacy-first safety solution featuring AI-driven risk scoring, emergency SOS triggers, geo-fencing, and trust capsule verification.
-  - Integrated real-time location sharing, guardian notifications, and Supabase backend architecture.
-  - *Tech:* Flutter, Supabase, AI, GPS.
-
----
+ 
 
 ## 📊 Problem Solving & LeetCode Stats
 
