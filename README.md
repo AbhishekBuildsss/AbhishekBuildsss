@@ -21,9 +21,6 @@ Email Me 👉 ✉️ **abhishekm2257527@gmail.com** for Collaboration, Projects,
 <div align="center">
   <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="90" alt="Pull Shark" title="Pull Shark" />
   <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="90" alt="Quickdraw" title="Quickdraw" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff42e13.png" width="90" alt="YOLO" title="YOLO" />
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-7662c003de59.png" width="90" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abadcb3.png" width="90" alt="Starstruck" title="Starstruck" />
 </div>
 
 ---
@@ -59,13 +56,11 @@ Email Me 👉 ✉️ **abhishekm2257527@gmail.com** for Collaboration, Projects,
 
 ---
 
- 
-
 ## 📊 Problem Solving & LeetCode Stats
 
 <div align="center">
   <a href="https://leetcode.com/u/4ZVFmbi41t/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=4ZVFmbi41t&theme=dark" alt="Abhishek's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/4ZVFmbi41t?theme=dark&font=baloo" alt="Abhishek's LeetCode Stats" />
   </a>
 </div>
 
@@ -74,14 +69,14 @@ Email Me 👉 ✉️ **abhishekm2257527@gmail.com** for Collaboration, Projects,
 ## 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekBuildsss&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Abhishek's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekBuildsss&theme=radical&layout=compact&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AbhishekBuildsss&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Abhishek's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AbhishekBuildsss&theme=radical&layout=compact&hide_border=false" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekBuildsss&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AbhishekBuildsss&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <br />
